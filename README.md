@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm José Carlos Martínez</h1>
-
+![Header](./github-header-banner.png) 
 
 <a href="https://www.linkedin.com/in/jose-martinez-data-scientist/">
   <img src="https://img.shields.io/badge/LinkedIn-Jose%20Martinez-0077B5?style=plastic&logo=linkedin" alt="LinkedIn"/>
