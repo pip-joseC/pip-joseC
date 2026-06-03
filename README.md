@@ -19,10 +19,10 @@ This portfolio highlights applied data science projects with an emphasis on anal
 ### Sales Analysis for Reckitt (EBAC Final Project)
 #### [Project GitHub Link](https://github.com/pip-joseC/Proyecto-con-empresa-aliada)
 
-* **Description**: Developed an end-to-end sales analysis and demand forecasting project for Reckitt (Vanish & Lysol), focusing on identifying business opportunities, market dynamics, and future sales trends.
+**Description**: Developed an end-to-end sales analysis and demand forecasting project for Reckitt (Vanish & Lysol), focusing on identifying business opportunities, market dynamics, and future sales trends.
 
 
-* **Key Contributions:**
+**Key Contributions:**
 
 * Executed data cleaning, data transformations, and normalization of databases to prepare them for analysis and modeling.
 
@@ -43,10 +43,10 @@ This portfolio highlights applied data science projects with an emphasis on anal
 ### Redshift Estimation of Submillimeter Galaxies (Undergraduate Thesis)
 #### [Project GitHub Link](https://github.com/pip-joseC/Tesis-red-neuronal-MDN-galaxias)
 
-* **Description:** Developed a Machine Learning model to estimate galaxy redshifts using a Sequential Mixture Density Network (MDN).
+**Description:** Developed a Machine Learning model to estimate galaxy redshifts using a Sequential Mixture Density Network (MDN).
 
 
-* **Key Contributions:**
+**Key Contributions:**
 * Implemented MDN for probabilistic prediction, providing explicit uncertainty estimation.
 
 
@@ -68,10 +68,10 @@ This portfolio highlights applied data science projects with an emphasis on anal
 ### Gas and Star Formation in Extreme Environments (MITACS Globalink Research Internship)
 #### [Project GitHub Link](https://github.com/pip-joseC/GMC-McMaster-University)
 
-* **Description:** Conducted research at McMaster University focusing on galaxy formation and evolution within extreme environments.
+**Description:** Conducted research at McMaster University focusing on galaxy formation and evolution within extreme environments.
 
 
-* **Key Contributions:**
+**Key Contributions:**
 * Performed EDA on high-dimensional datasets to extract relevant features.
 
 
