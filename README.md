@@ -19,24 +19,24 @@ This portfolio highlights applied data science projects with an emphasis on anal
 ### Sales Analysis for Reckitt (EBAC Final Project)
 #### [Project GitHub Link](https://github.com/pip-joseC/Proyecto-con-empresa-aliada)
 
-* **Description:** Developed a comprehensive sales analysis for Reckitt, focusing on identifying business opportunities and market dynamics.
+* **Description**: Developed an end-to-end sales analysis and demand forecasting project for Reckitt (Vanish & Lysol), focusing on identifying business opportunities, market dynamics, and future sales trends.
 
 
 * **Key Contributions:**
-* Executed data cleaning, debugging, and normalization of databases to prepare them for modeling.
 
+* Executed data cleaning, data transformations, and normalization of databases to prepare them for analysis and modeling.
 
-* Performed an Exploratory Data Analysis (EDA) to evaluate sales performance by product and segment, identifying key patterns.
+* Performed an Exploratory Data Analysis (EDA) with analytical visualizations to evaluate sales performance by product, segment, and region, identifying key patterns and outliers.
 
+* Applied a K-Means clustering algorithm to segment product sales (focusing on Vanish), gaining a deeper understanding of the market’s behavior.
 
-* Built analytical visualizations to communicate insights regarding market behavior.
+* Structured and queried the data relationally in SQL (views with joins, CTEs, and window functions) in order to obtain more detailed insights from the data.
 
-* Applied a machine learning clustering algorithm (K-Means), in order to segment sales of sanitizing products (focusing on Vanish sales), gaining key insights and a deeper understanding of the market’s behavior.
+* Designed an interactive multi-page Power BI dashboard for stakeholders.
 
+* Built and validated an ARIMA time series model to forecast future demand, then synthesized findings into actionable business recommendations.
 
-
-
-* **Technologies:** Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn.
+* **Technologies:** Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, SQL (SQL Server), Power BI.
 
 
 
